@@ -55,3 +55,18 @@ Planed reworks
 
 =====================================
 
+- Engineer:
+
+BUFF's
+
+New ability - You can fix sabotage from anywhere on the map
+
+NERF's
+
+New setting - Vent cooldonw
+
+- Jester:
+
+NERF's
+
+New setting - Can move between vents
