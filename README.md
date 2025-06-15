@@ -33,14 +33,15 @@ Glitch - Kill and mimic to other people
 
 Hunter - To win you have to make a certain number of kills
 
+Igniter - burn everyone!
+
 Scavenger - Eat certain number of bodies to win
 
-igniter - burn everyone!
-
-serial killer - kill everyone
+Serial killer - kill everyone
 
 =====================================
 
 Crewmate Team:
 
--
+Detective - When you report the body you get clues about the killer
+
