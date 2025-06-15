@@ -13,12 +13,15 @@ Impostor Team:
 
 Assassin - Can kill on meetings
 
-Digger - Dig your own vents
-
 Blinded - You can blind other players
 
 Biter - Bite someone to death
 
+Digger - Dig your own vents
+
 Pestilence - Infect someone and after a certain time they will die
 
 Neutral Team:
+
+Hunter - To win you have to make a certain number of kills
+
