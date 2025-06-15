@@ -10,10 +10,10 @@ If you are a scripter and would like to help (for free, I don't have money) text
 Planned roles:
 
 Impostor Team:
-= Assassin - Can kill on meetings
-= Digger - Dig your own vents
-= Blinded - You can blind other players
-= Biter - Bite someone to death
-= Pestilence - Infect someone and after a certain time they will die
+Assassin - Can kill on meetings
+Digger - Dig your own vents
+Blinded - You can blind other players
+Biter - Bite someone to death
+Pestilence - Infect someone and after a certain time they will die
 
 Neutral Team:
