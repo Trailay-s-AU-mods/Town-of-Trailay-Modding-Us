@@ -9,7 +9,7 @@ If you are a scripter and would like to help (for free, I don't have money) text
 
 Planned roles:
 
-==============================================
+======================================
 
 Impostor Team:
 
@@ -23,7 +23,7 @@ Digger - Dig your own vents
 
 Pestilence - Infect someone and after a certain time they will die
 
-==============================================
+======================================
 
 Neutral Team:
 
