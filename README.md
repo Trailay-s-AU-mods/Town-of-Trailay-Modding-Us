@@ -65,8 +65,24 @@ NERF's
 
 New setting - Vent cooldonw
 
+- Dragger:
+
+BUFF's
+
+New button - When you drag a body and you enter the vent, a button will appear to hide the body in the vent
+
+NERF's
+
+New setting - When someone enters/exits a vent where a body is hidden, the body will be thrown out of it
+
 - Jester:
 
 NERF's
 
 New setting - Can move between vents
+
+- Medic
+
+NERF's
+
+New setting - Number of revives
