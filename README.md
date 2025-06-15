@@ -48,3 +48,10 @@ Betrayer - When you finish your tasks you will find out who is the impostor
 Detective - When you report the body you get clues about the killer
 
 Veteran - If someone tries to kill you during an alert, they will die themselves
+
+=====================================
+
+Planed reworks
+
+=====================================
+
