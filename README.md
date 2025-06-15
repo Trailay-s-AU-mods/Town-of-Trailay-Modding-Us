@@ -12,9 +12,13 @@ Planned roles:
 Impostor Team:
 
 Assassin - Can kill on meetings
+
 Digger - Dig your own vents
+
 Blinded - You can blind other players
+
 Biter - Bite someone to death
+
 Pestilence - Infect someone and after a certain time they will die
 
 Neutral Team:
