@@ -10,6 +10,7 @@ If you are a scripter and would like to help (for free, I don't have money) text
 Planned roles:
 
 Impostor Team:
+
 Assassin - Can kill on meetings
 Digger - Dig your own vents
 Blinded - You can blind other players
