@@ -5,7 +5,15 @@ At the moment it is just an outline, I plan to add some roles to MU
 
 I am still learning C# programming, but when I feel up to it, I will start working on this project
 
+If you are a scripter and would like to help (I don't give money for free) text me on discord - Trailay #0016
+
 Planned roles:
 
-Impostor Team
-• Assassin - can kill on meetings
+Impostor Team:
+• Assassin - Can kill on meetings
+• Digger - Dig your own vents
+• Blinded - You can blind other players
+• Biter - Bite someone to death
+• Pestilence - Infect someone and after a certain time they will die
+
+Neutral Team:
