@@ -63,7 +63,7 @@ New ability - You can fix sabotage from anywhere on the map
 
 NERF's
 
-New setting - Vent cooldonw
+New setting - Vent cooldown
 
 - Dragger:
 
@@ -81,8 +81,22 @@ NERF's
 
 New setting - Can move between vents
 
-- Medic
+- Medic:
 
 NERF's
 
 New setting - Number of revives
+
+New event - When you revive somebody all killers will have arrow pointing at the revived
+
+- Phantom:
+
+BUFF's
+
+New setting - Can kill while invisible
+
+- Sheriff
+
+NERF's
+
+New setting - Missfire kills the target
