@@ -1,0 +1,10 @@
+Beta 0.1
+- Copied "Serial Killer" role from TOMU (made by Matveydo3456 [Lime Modding Us] )
+- Edited "Bomber" made by Pietro
+
+Beta 0.2
+- Still not fixed Bomber
+- New mod logo
+- New dynamite texture
+- New "Crewpostor" role (made by GUEST)
+- Files for my hat, glasses, head
