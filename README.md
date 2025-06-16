@@ -13,7 +13,7 @@ Reworked roles:
 
 **TO PLAY ON THIS MOD** YOU **NEED TO UNISTALL *__TROLLEY__* MOD**
 
-Planned roles:
+Roles:
 
 ======================================
 
@@ -21,7 +21,7 @@ Impostor Team:
 
 Assassin - Can kill on meetings
 
-Bomber - You can explode up to {number} bombs
+Bomber - You can explode up to {number} bombs === DONE
 
 Blinded - You can blind other players
 
@@ -45,7 +45,7 @@ Igniter - burn everyone!
 
 Scavenger - Eat certain number of bodies to win
 
-Serial killer - kill everyone
+Serial killer - kill everyone === DONE
 
 =====================================
 
@@ -56,6 +56,26 @@ Betrayer - When you finish your tasks you will find out who is the impostor
 Detective - When you report the body you get clues about the killer
 
 Veteran - If someone tries to kill you during an alert, they will die themselves
+
+=====================================
+
+CREDITS:
+
+Pietro
+- roleExample creator
+- role Bomber - full base role that I edited
+
+GuestTheDeveloper
+- TOMU creator (orginal)
+
+Matveydo3456 (Lime Modding Us)
+- Serial killer role that I edited
+- Help with mod
+
+RSE
+connecting 2 roles (TOMU)
+
+TOMU logo from Curseforge mod
 
 =====================================
 
