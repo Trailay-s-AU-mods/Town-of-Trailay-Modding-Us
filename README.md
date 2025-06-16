@@ -4,6 +4,9 @@ Town Of Trailay - Modding Us, mod for modding us that add some roles
 **Polish language is in the code** (for roles and descriptions) rn its not possible to set it in game
 (if any one can help me with adding language pls help)
 
+**THIS A MOD FOR MODDING US**
+NOT FOR ORIGINAL AMONG US
+
 **TO PLAY ON THIS MOD** YOU **NEED TO UNISTALL *__TROLLEY__* MOD**
 
 **CHANGELOG**
