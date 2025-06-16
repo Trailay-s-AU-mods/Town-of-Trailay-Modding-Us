@@ -7,14 +7,14 @@ Town Of Trailay - Modding Us, mod for modding us that add some roles
 **TO PLAY ON THIS MOD** YOU **NEED TO UNISTALL *__TROLLEY__* MOD**
 
 **CHANGELOG**
-Beta 0.2
+###Beta 0.2
 - Still not fixed Bomber
 - New mod logo
 - New dynamite texture
 - New "Crewpostor" role (made by GUEST)
 - Files for my hat, glasses, head
 
-  Beta 0.3
+###Beta 0.3
   - Bomber not fixed
   - New "Fake Crewmate" role (changes to fake impostor)
   - Some improvments in code (less buggy)
