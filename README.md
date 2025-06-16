@@ -6,8 +6,14 @@ Town Of Trailay - Modding Us, mod for modding us that add some roles
 
 **TO PLAY ON THIS MOD** YOU **NEED TO UNISTALL *__TROLLEY__* MOD**
 
-Roles:
+**CHANGELOG**
 
+
+**ROLES IN MOD**
+
+
+======================================
+Planed roles:
 ======================================
 
 Impostor Team:
