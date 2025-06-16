@@ -1,7 +1,7 @@
 # Town of Trailay - MU
 Town Of Trailay - Modding Us, mod for modding us that add some roles
 
-**Polish language is in the code** ||for roles and descriptions|| rn its not possible to set it in game
+**Polish language is in the code** (for roles and descriptions) rn its not possible to set it in game
 (if any one can help me with adding language pls help)
 
 New roles:
