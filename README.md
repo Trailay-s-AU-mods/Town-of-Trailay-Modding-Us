@@ -1,11 +1,17 @@
 # Town of Trailay - MU
 Town Of Trailay - Modding Us, mod for modding us that add some roles
 
-At the moment it is just an outline, I plan to add some roles to MU
+**Polish language is in the code** ||for roles and descriptions|| rn its not possible to set it in game
+(if any one can help me with adding language pls help)
 
-I am still learning C# programming, but when I feel up to it, I will start working on this project
+New roles:
+- Serial Killer, kill everyone to win
 
-If you are a scripter and would like to help (for free, I don't have money) text me on discord - Trailay #0016
+Reworked roles:
+- Bomber, now has 3 bombs, 40s cooldown and can vent
+(it is pre-seted, you cant change it in game)
+
+**TO PLAY ON THIS MOD** YOU **NEED TO UNISTALL *__TROLLEY__* MOD**
 
 Planned roles:
 
@@ -14,6 +20,8 @@ Planned roles:
 Impostor Team:
 
 Assassin - Can kill on meetings
+
+Bomber - You can explode up to {number} bombs
 
 Blinded - You can blind other players
 
