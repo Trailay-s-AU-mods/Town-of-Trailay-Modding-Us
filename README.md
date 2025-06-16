@@ -4,13 +4,6 @@ Town Of Trailay - Modding Us, mod for modding us that add some roles
 **Polish language is in the code** (for roles and descriptions) rn its not possible to set it in game
 (if any one can help me with adding language pls help)
 
-New roles:
-- Serial Killer, kill everyone to win
-
-Reworked roles:
-- Bomber, now has 3 bombs, 40s cooldown and can vent
-(it is pre-seted, you cant change it in game)
-
 **TO PLAY ON THIS MOD** YOU **NEED TO UNISTALL *__TROLLEY__* MOD**
 
 Roles:
@@ -21,7 +14,7 @@ Impostor Team:
 
 Assassin - Can kill on meetings
 
-Bomber - You can explode up to {number} bombs === DONE
+Bomber - You can explode up to {number} bombs
 
 Blinded - You can blind other players
 
@@ -45,7 +38,7 @@ Igniter - burn everyone!
 
 Scavenger - Eat certain number of bodies to win
 
-Serial killer - kill everyone === DONE
+Serial killer - kill everyone
 
 =====================================
 
