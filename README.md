@@ -24,7 +24,7 @@ NOT FOR ORIGINAL AMONG US
   - Some improvments in code (less buggy)
 
 **BETA 4**
-**- Fixed Bobmer**
+- **Fixed Bobmer**
 - Deleted "Fake Crewmate" role (didn't make any sense. Crewmate who can sabotage and does tasks so he won't use this ability at all because why make it harder for himself)
 - Added "Fake Impostor" role (edited version from featured mods)
 - Added "Hunter" role in files (not avable, waiting for Pietro to fix)
