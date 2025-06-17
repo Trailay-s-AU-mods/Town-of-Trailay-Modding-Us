@@ -53,6 +53,8 @@ Blinded - You can blind other players
 
 Biter - Bite someone to death
 
+Clutch - You can kill if there is 7 or less people
+
 Digger - Dig your own vents
 
 Pestilence - Infect someone and after a certain time they will die
