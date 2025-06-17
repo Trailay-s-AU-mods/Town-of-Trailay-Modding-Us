@@ -23,6 +23,14 @@ NOT FOR ORIGINAL AMONG US
   - New "Fake Crewmate" role (changes to fake impostor)
   - Some improvments in code (less buggy)
 
+**BETA 4**
+**Fixed Bobmer**
+Deleted "Fake Crewmate" role (didn't make any sense. Crewmate who can sabotage and does tasks so he won't use this ability at all because why make it harder for himself)
+Added "Fake Impostor" role (edited version from featured mods)
+Added "Hunter" role in files (not avable, waiting for Pietro to fix)
+
+=====================================
+
 **ROLES IN MOD**
 - Bomber
 - Serial Killer
@@ -30,7 +38,9 @@ NOT FOR ORIGINAL AMONG US
 - Fake Crewmate
 
 ======================================
+
 Planed roles:
+
 ======================================
 
 Impostor Team:
@@ -75,7 +85,7 @@ Veteran - If someone tries to kill you during an alert, they will die themselves
 
 =====================================
 
-CREDITS:
+**Credits:**
 
 Pietro
 - roleExample creator
@@ -88,8 +98,14 @@ Matveydo3456 (Lime Modding Us)
 - Serial killer role that I edited
 - Help with mod
 
+Bluesus
+- For helping
+
 RSE
-connecting 2 roles (TOMU)
+- connecting 2 roles (TOMU)
+
+GUEST:
+- Crewpostor role (orginal creator of this role for MU)
 
 TOMU logo from Curseforge mod
 
