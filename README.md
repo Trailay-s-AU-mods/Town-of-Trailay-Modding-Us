@@ -29,6 +29,15 @@ NOT FOR ORIGINAL AMONG US
 - Added "Fake Impostor" role (edited version from featured mods)
 - Added "Hunter" role in files (not avable, waiting for Pietro to fix)
 
+**Beta 5**
+
+- **ADDED CLUTCH** - Imp that can kill and vent only if there is 7 or less players alive (because int alivePlayer isnt checking in game it is preseted to 8 so you can kill always, but it will be changed
+- Hunter still isnt working - Pietro read pv and please help me
+- Changed back to old dynamite texture (TNT) but resized it to fit more to the game
+- Code impoments
+- More translations (next hotfix/update will be full translation, and i will try to add polish option)
+- Impovment of my skill, clutch system made fully by me! Without of help!
+
 =====================================
 
 **ROLES IN MOD**
