@@ -11,13 +11,6 @@ NOT FOR ORIGINAL AMONG US
 
 **CHANGELOG**
 
-**Beta 0.2**
-- Still not fixed Bomber
-- New mod logo
-- New dynamite texture
-- New "Crewpostor" role (made by GUEST)
-- Files for my hat, glasses, head
-
 **Beta 0.3**
   - Bomber not fixed
   - New "Fake Crewmate" role (changes to fake impostor)
@@ -37,6 +30,15 @@ NOT FOR ORIGINAL AMONG US
 - Code impoments
 - More translations (next hotfix/update will be full translation, and i will try to add polish option)
 - Impovment of my skill, clutch system made fully by me! Without of help!
+
+**Beta 5.2**
+- **UPDATED TRANSLATIONS** - Full Portuguese and Polish.
+- Released Polish lang mod for MU
+- Clutch works as it should (Pietro huge thanks for fixing it)
+- Improvments in code
+- Added Sabotager role (imp - can kill, sabotage; cant vent)
+- Added Bait role (not avable)
+- Hunter still not avable
 
 =====================================
 
