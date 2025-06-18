@@ -43,12 +43,14 @@ NOT FOR ORIGINAL AMONG US
 =====================================
 
 **ROLES IN MOD**
+- Bait ( not working )
 - Bomber
-- Serial Killer
 - CrewPoster
+- Clutch = NOW WORKS
 - Fake Impostor
-- Clutch
 - Hunter ( not working )
+- Sabotager
+- Serial Killer
 
 ======================================
 
