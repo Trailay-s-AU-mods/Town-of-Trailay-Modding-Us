@@ -107,6 +107,7 @@ Veteran - If someone tries to kill you during an alert, they will die themselves
 Pietro
 - roleExample creator
 - role Bomber - full base role that I edited
+- fixing clutch (huge thanks)
 
 GuestTheDeveloper
 - TOMU creator (orginal)
@@ -121,8 +122,11 @@ Bluesus
 RSE
 - connecting 2 roles (TOMU)
 
-GUEST:
+GUEST
 - Crewpostor role (orginal creator of this role for MU)
+
+Super Idol
+- Sabotager role
 
 TOMU logo from Curseforge mod
 
