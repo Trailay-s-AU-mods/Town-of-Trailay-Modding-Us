@@ -44,7 +44,9 @@ NOT FOR ORIGINAL AMONG US
 - Bomber
 - Serial Killer
 - CrewPoster
-- Fake Crewmate
+- Fake Impostor
+- Clutch
+- Hunter ( not working )
 
 ======================================
 
