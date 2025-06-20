@@ -40,6 +40,16 @@ NOT FOR ORIGINAL AMONG US
 - Added Bait role (not avable)
 - Hunter still not avable
 
+**Beta 6**
+- Clutch came back from vacation (sorry Pietro, i am beginer, idk how to make it)
+- Improvments in code
+- Removed Fake Impostor from ToT (you can downolad normal FakeImp from mods tab)
+- Added Uncertain role
+- Hunter and Bait still not avable
+
+**Beta 6.1**
+- Fixed Portuguese translations
+
 =====================================
 
 **ROLES IN MOD**
