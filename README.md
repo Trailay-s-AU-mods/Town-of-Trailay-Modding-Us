@@ -82,6 +82,8 @@ Clutch - You can kill if there is 7 or less people
 
 Digger - Dig your own vents
 
+Disguiser - You can disguise all players
+
 Pestilence - Infect someone and after a certain time they will die
 
 ======================================
@@ -107,6 +109,8 @@ Crewmate Team:
 Betrayer - When you finish your tasks you will find out who is the impostor
 
 Detective - When you report the body you get clues about the killer
+
+Time stoper - You can stop time for all players except you
 
 Veteran - If someone tries to kill you during an alert, they will die themselves
 
