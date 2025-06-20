@@ -57,10 +57,10 @@ NOT FOR ORIGINAL AMONG US
 - Bomber
 - CrewPoster
 - Clutch = NOW WORKS
-- Fake Impostor
 - Hunter ( not working )
 - Sabotager
 - Serial Killer
+- Uncertain
 
 ======================================
 
