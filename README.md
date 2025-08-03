@@ -11,17 +11,6 @@ NOT FOR ORIGINAL AMONG US
 
 **CHANGELOG**
 
-**Beta 0.3**
-  - Bomber not fixed
-  - New "Fake Crewmate" role (changes to fake impostor)
-  - Some improvments in code (less buggy)
-
-**BETA 4**
-- **Fixed Bobmer**
-- Deleted "Fake Crewmate" role (didn't make any sense. Crewmate who can sabotage and does tasks so he won't use this ability at all because why make it harder for himself)
-- Added "Fake Impostor" role (edited version from featured mods)
-- Added "Hunter" role in files (not avable, waiting for Pietro to fix)
-
 **Beta 5**
 
 - **ADDED CLUTCH** - Imp that can kill and vent only if there is 7 or less players alive (because int alivePlayer isnt checking in game it is preseted to 8 so you can kill always, but it will be changed
@@ -53,11 +42,9 @@ NOT FOR ORIGINAL AMONG US
 =====================================
 
 **ROLES IN MOD**
-- Bait ( not working )
 - Bomber
 - CrewPoster
 - Clutch = NOW WORKS
-- Hunter ( not working )
 - Sabotager
 - Serial Killer
 - Uncertain
@@ -70,21 +57,28 @@ Planed roles:
 
 Impostor Team:
 
-Assassin - Can kill on meetings
+Assassin - Guess others people roles on meetings
 
-Bomber - You can explode up to {number} bombs
+Blackmailer - Blackmail others
 
-Blinded - You can blind other players
+Bomber - You can explode up to {number} bombs **- DONE and ADDED**
 
-Biter - Bite someone to death
+Cleaner - Clean bodies
 
-Clutch - You can kill if there is 7 or less people
+Clutch - You can kill if there is 7 or less people **- DONE and ADDED**
 
 Digger - Dig your own vents
 
 Disguiser - You can disguise all players
 
-Pestilence - Infect someone and after a certain time they will die
+Flasher - Throw flash and blind other players
+
+Ninja - Teleport and kill
+
+Uncertain - You can either help other impostors or be Traitor and make them lose.
+**IF YOU CHOOSE TO BE TRAITOR YOU WILL STILL WIN AND LOSE WITH IMPOSTORS ;(**
+
+Vampire - Bite to death
 
 ======================================
 
@@ -92,15 +86,21 @@ Neutral Team:
 
 Executioner - Eject the highlighted player to win
 
+Freezer - Freeze people in place
+
 Glitch - Kill and mimic to other people
 
 Hunter - To win you have to make a certain number of kills
 
 Igniter - burn everyone!
 
+Juggernaut - After each kill, your kill cooldown is reduced
+
 Scavenger - Eat certain number of bodies to win
 
-Serial killer - kill everyone
+Serial killer - kill everyone **- DONE AND ADDED**
+
+Werewolf - Rampage to kill them all!
 
 =====================================
 
@@ -108,9 +108,19 @@ Crewmate Team:
 
 Betrayer - When you finish your tasks you will find out who is the impostor
 
+Crewpostor - You can do averything, but you win with crewmates
+
 Detective - When you report the body you get clues about the killer
 
+Guard - Give shield and protect someone
+
 Time stoper - You can stop time for all players except you
+
+Tracker - Track other players
+
+Noisemaker - Aletr everyone when you die
+
+Spy - Cpy to find out things
 
 Veteran - If someone tries to kill you during an alert, they will die themselves
 
@@ -143,55 +153,3 @@ Super Idol
 - Sabotager role
 
 TOMU logo from Curseforge mod
-
-=====================================
-
-Planed reworks
-
-=====================================
-
-- Engineer:
-
-BUFF's
-
-New ability - You can fix sabotage from anywhere on the map
-
-NERF's
-
-New setting - Vent cooldown
-
-- Dragger:
-
-BUFF's
-
-New button - When you drag a body and you enter the vent, a button will appear to hide the body in the vent
-
-NERF's
-
-New setting - When someone enters/exits a vent where a body is hidden, the body will be thrown out of it
-
-- Jester:
-
-NERF's
-
-New setting - Can move between vents
-
-- Medic:
-
-NERF's
-
-New setting - Number of revives
-
-New event - When you revive somebody all killers will have arrow pointing at the revived
-
-- Phantom:
-
-BUFF's
-
-New setting - Can kill while invisible
-
-- Sheriff
-
-NERF's
-
-New setting - Missfire kills the target
