@@ -13,7 +13,7 @@ NOT FOR ORIGINAL AMONG US
 
 **Beta 5**
 
-- **ADDED CLUTCH** - Imp that can kill and vent only if there is 7 or less players alive (because int alivePlayer isnt checking in game it is preseted to 8 so you can kill always, but it will be changed
+- **ADDED CLUTCH** - Imp that can kill and vent only if there is 7 or less players alive
 - Hunter still isnt working - Pietro read pv and please help me
 - Changed back to old dynamite texture (TNT) but resized it to fit more to the game
 - Code impoments
