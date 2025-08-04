@@ -78,8 +78,6 @@ Ninja - Teleport and kill
 Uncertain - You can either help other impostors or be Traitor and make them lose.
 **IF YOU CHOOSE TO BE TRAITOR YOU WILL STILL WIN AND LOSE WITH IMPOSTORS ;(**
 
-Vampire - Bite to death
-
 ======================================
 
 Neutral Team:
@@ -101,6 +99,8 @@ Scavenger - Eat certain number of bodies to win
 Serial killer - kill everyone **- DONE AND ADDED**
 
 Werewolf - Rampage to kill them all!
+
+Vampire - Bite to death
 
 =====================================
 
