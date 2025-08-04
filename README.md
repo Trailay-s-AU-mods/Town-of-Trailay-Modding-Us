@@ -94,6 +94,8 @@ Igniter - burn everyone!
 
 Juggernaut - After each kill, your kill cooldown is reduced
 
+Infector - Infect every one and win
+
 Scavenger - Eat certain number of bodies to win
 
 Serial killer - kill everyone **- DONE AND ADDED**
