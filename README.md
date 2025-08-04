@@ -82,6 +82,8 @@ Uncertain - You can either help other impostors or be Traitor and make them lose
 
 Neutral Team:
 
+Burnerer - Burn people instead of killing them
+
 Executioner - Eject the highlighted player to win
 
 Freezer - Freeze people in place
