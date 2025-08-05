@@ -102,6 +102,8 @@ Scavenger - Eat certain number of bodies to win
 
 Serial killer - kill everyone **- DONE AND ADDED**
 
+Survivor - Survive to end and win with winning team
+
 Werewolf - Rampage to kill them all!
 
 Vampire - Bite to death
@@ -114,15 +116,27 @@ Betrayer - When you finish your tasks you will find out who is the impostor
 
 Crewpostor - You can do averything, but you win with crewmates
 
-Detective - When you report the body you get clues about the killer
+Detective - Examinate crime scenes
+
+Deputy - You can handcuff crewmates
+
+Engineer - Vent and fix sabotages
 
 Guard - Give shield and protect someone
+
+Imitator - Imitate roles of dead players
+
+Jailer - Jail crewmates
 
 Time stoper - You can stop time for all players except you
 
 Tracker - Track other players
 
+Mayor - You have more votes
+
 Noisemaker - Aletr everyone when you die
+
+Seer - Reveal the alliance of other players
 
 Spy - Cpy to find out things
 
