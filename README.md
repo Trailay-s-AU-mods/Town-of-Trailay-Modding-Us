@@ -151,9 +151,6 @@ Pietro
 - role Bomber - full base role that I edited
 - fixing clutch (huge thanks)
 
-GuestTheDeveloper
-- TOMU creator (orginal)
-
 Matveydo3456 (Lime Modding Us)
 - Serial killer role that I edited
 - Help with mod
