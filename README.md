@@ -112,7 +112,7 @@ Crewmate Team:
 
 Aurial - Radiate to if there are good
 
-Betrayer - When you finish your tasks you will find out who is the impostor
+Betrayer - Finish your tasks to reveal impostors
 
 Crewpostor - You can do averything, but you win with crewmates
 
