@@ -154,15 +154,15 @@ Planed add-ons (modifiers)
 
 (imp) Disperser - diperse everyone to random vents
 
-(imp) Double Shot - you have second shoot
+(imp) Double Shot - You have second shot, if you missguess first shot you don't die
 
-(evil) Egoist
+(evil) Egoist - Steal your team victory to your self
 
 (global) Flash - You are faster
 
 (global) Gigant - You are bigger and slower
 
-(alliance) Lovers
+(alliance) Lovers - You are in love with: ???. If one of you die second one will suicide
 
 (global) Lucky - You have a chance to survive a murder
 
@@ -174,7 +174,7 @@ Planed add-ons (modifiers)
 
 (global) Torch - Your vision is not affected by lights
 
-(imp) Underdog
+(imp) Underdog - If you are last living from your team, you get reduced cooldown
 
 =====================================
 
