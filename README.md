@@ -1,8 +1,6 @@
 # Town of Trailay - MU
 Town Of Trailay - Modding Us, mod for modding us that add some roles
 
-**Polish language is in the code** (for roles and descriptions) rn its not possible to set it in game
-(if any one can help me with adding language pls help)
 
 **THIS A MOD FOR MODDING US**
 NOT FOR ORIGINAL AMONG US
@@ -41,7 +39,7 @@ NOT FOR ORIGINAL AMONG US
 
 =====================================
 
-**ROLES IN MOD**
+**ROLES THAT THIS MOD ADDS**
 - Bomber
 - CrewPoster
 - Clutch = NOW WORKS
@@ -112,6 +110,8 @@ Vampire - Bite to death
 
 Crewmate Team:
 
+Aurial - Radiate to if there are good
+
 Betrayer - When you finish your tasks you will find out who is the impostor
 
 Crewpostor - You can do averything, but you win with crewmates
@@ -133,6 +133,8 @@ Time stoper - You can stop time for all players except you
 Tracker - Track other players
 
 Mayor - You have more votes
+
+Mortican - Report bodies and see the suspects
 
 Noisemaker - Aletr everyone when you die
 
