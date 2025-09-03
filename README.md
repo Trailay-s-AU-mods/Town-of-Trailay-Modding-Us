@@ -112,8 +112,6 @@ Crewmate Team:
 
 Aurial - Radiate to if there are good
 
-Betrayer - Finish your tasks to reveal impostors
-
 Crewpostor - You can do averything, but you win with crewmates
 
 Detective - Examinate crime scenes
@@ -139,6 +137,8 @@ Mortican - Report bodies and see the suspects
 Noisemaker - Aletr everyone when you die
 
 Seer - Reveal the alliance of other players
+
+Snitch - Finish your tasks to reveal impostors
 
 Spy - Cpy to find out things
 
