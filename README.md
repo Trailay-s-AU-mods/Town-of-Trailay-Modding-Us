@@ -1,5 +1,5 @@
 # Town of Trailay - Modding Us
-Town Of Trailay is a mod for modding us that add new roles (modifiers, gamemodes and other featuers coming in later updates)
+**Town Of Trailay** is a mod for modding us that add new roles (modifiers, gamemodes and other featuers coming in later updates)
 
 
 **THIS A MOD FOR MODDING US**
