@@ -9,24 +9,6 @@ NOT FOR ORIGINAL AMONG US
 
 **CHANGELOG**
 
-**Beta 5**
-
-- **ADDED CLUTCH** - Imp that can kill and vent only if there is 7 or less players alive
-- Hunter still isnt working - Pietro read pv and please help me
-- Changed back to old dynamite texture (TNT) but resized it to fit more to the game
-- Code impoments
-- More translations (next hotfix/update will be full translation, and i will try to add polish option)
-- Impovment of my skill, clutch system made fully by me! Without of help!
-
-**Beta 5.2**
-- **UPDATED TRANSLATIONS** - Full Portuguese and Polish.
-- Released Polish lang mod for MU
-- Clutch works as it should (Pietro huge thanks for fixing it)
-- Improvments in code
-- Added Sabotager role (imp - can kill, sabotage; cant vent)
-- Added Bait role (not avable)
-- Hunter still not avable
-
 **Beta 6**
 - Clutch came back from vacation (sorry Pietro, i am beginer, idk how to make it)
 - Improvments in code
