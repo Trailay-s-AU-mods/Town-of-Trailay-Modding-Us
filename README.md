@@ -86,7 +86,7 @@ Executioner - Eject the highlighted player to win
 
 Freezer - Freeze people in place
 
-Glitch - Kill and mimic to other people
+Glitch - Kill and mimic to other people - **in progress**
 
 Hunter - To win you have to make a certain number of kills
 
