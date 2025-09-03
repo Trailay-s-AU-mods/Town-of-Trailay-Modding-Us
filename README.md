@@ -146,6 +146,10 @@ Veteran - If someone tries to kill you during an alert, they will die themselves
 
 =====================================
 
+Planed add-ons (modifiers)
+
+=====================================
+
 **Credits:**
 
 Pietro
