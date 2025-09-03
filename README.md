@@ -152,9 +152,17 @@ Planed add-ons (modifiers)
 
 (global) Bait - After you die, your killer will automatically self report your body
 
+(imp) Disperser
+
+(imp) Double Shot
+
+(evil) Egoist
+
 (global) Flash - You are faster
 
 (global) Gigant - You are bigger and slower
+
+(alliance) Lovers
 
 (global) Lucky - You have a chance to survive a murder
 
@@ -165,6 +173,8 @@ Planed add-ons (modifiers)
 (crew) Second life - Survive murder attempt, after meeting you get notification that your second life has started
 
 (global) Torch - Your vision is not affected by lights
+
+(imp) Underdog
 
 =====================================
 
