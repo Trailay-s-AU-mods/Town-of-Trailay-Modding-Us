@@ -152,9 +152,9 @@ Planed add-ons (modifiers)
 
 (global) Bait - After you die, your killer will automatically self report your body
 
-(imp) Disperser
+(imp) Disperser - diperse everyone to random vents
 
-(imp) Double Shot
+(imp) Double Shot - you have second shoot
 
 (evil) Egoist
 
