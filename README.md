@@ -150,6 +150,15 @@ Planed add-ons (modifiers)
 
 =====================================
 
+Flash - You are faster
+Gigant - You are bigger and slower
+Lucky - You have a chance to survive a murder
+Mini - You are smaller and slower
+Radar - You have arrow pointing to closest player
+Second life - Survive murder attempt, after meeting you get notification that your second life has started
+
+=====================================
+
 **Credits:**
 
 Pietro
