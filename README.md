@@ -10,11 +10,11 @@ NOT FOR ORIGINAL AMONG US
 **CHANGELOG**
 
 **Beta 6**
-- Clutch came back from vacation (sorry Pietro, i am beginer, idk how to make it)
+- Clutch is back
 - Improvments in code
 - Removed Fake Impostor from ToT (you can downolad normal FakeImp from mods tab)
 - Added Uncertain role
-- Hunter and Bait still not avable
+- Hunter still broken
 
 **Beta 6.1**
 - Fixed Portuguese translations
@@ -41,7 +41,7 @@ Assassin - Guess others people roles on meetings
 
 Blackmailer - Blackmail others
 
-Bomber - You can explode up to {number} bombs **- DONE and ADDED**
+Bomber - You can explode up to {number} bombs **- DONE and ADDED - Coming to vanilla Modding Us**
 
 Cleaner - Clean bodies
 
@@ -100,8 +100,6 @@ Detective - Examinate crime scenes
 
 Deputy - You can handcuff crewmates
 
-Engineer - Vent and fix sabotages
-
 Guard - Give shield and protect someone
 
 Imitator - Imitate roles of dead players
@@ -110,13 +108,13 @@ Jailer - Jail crewmates
 
 Time stoper - You can stop time for all players except you
 
-Tracker - Track other players
+Tracker - Track other players - **Coming to vanilla Modding Us**
 
 Mayor - You have more votes
 
 Mortican - Report bodies and see the suspects
 
-Noisemaker - Aletr everyone when you die
+Noisemaker - Aletr everyone when you die - **Coming to vanilla Modding Us**
 
 Seer - Reveal the alliance of other players
 
