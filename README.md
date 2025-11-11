@@ -55,8 +55,10 @@ Flasher - Throw flash and blind other players
 
 Ninja - Teleport and kill
 
+Poisoner - Poison someone to kill them with delay = **in progress**
+
 Uncertain - You can either help other impostors or be Traitor and make them lose.
-**IF YOU CHOOSE TO BE TRAITOR YOU WILL STILL WIN AND LOSE WITH IMPOSTORS ;(**
+**IF YOU CHOOSE TO BE TRAITOR YOU WILL STILL WIN AND LOSE WITH IMPOSTORS** - WILL BE FIXED!!!
 
 ======================================
 
@@ -70,7 +72,7 @@ Freezer - Freeze people in place
 
 Glitch - Kill and mimic to other people - **in progress**
 
-Hunter - To win you have to make a certain number of kills
+Hunter - To win you have to make a certain number of kills - **in progress**
 
 Igniter - burn everyone!
 
@@ -86,7 +88,7 @@ Survivor - Survive to end and win with winning team
 
 Werewolf - Rampage to kill them all!
 
-Vampire - Bite to death
+Vampire - Bite to death - **in progress**
 
 =====================================
 
@@ -106,7 +108,7 @@ Imitator - Imitate roles of dead players
 
 Jailer - Jail crewmates
 
-Time stoper - You can stop time for all players except you
+Time Master - Revise time! - **in progress**
 
 Tracker - Track other players - **Coming to vanilla Modding Us**
 
@@ -130,7 +132,7 @@ Planed add-ons (modifiers)
 
 =====================================
 
-(global) Bait - After you die, your killer will automatically self report your body
+(global) Bait - After you die, your killer will automatically self report your body - **in progress as role**
 
 (imp) Disperser - diperse everyone to random vents
 
@@ -164,6 +166,9 @@ Pietro
 - roleExample creator
 - role Bomber - full base role that I edited
 - fixing clutch (huge thanks)
+
+Rafael (our newest team member is cooking update for you!!!)
+- all roles in progress
 
 Matveydo3456 (Lime Modding Us)
 - Serial killer role that I edited
