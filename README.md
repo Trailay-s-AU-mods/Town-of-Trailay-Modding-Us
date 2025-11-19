@@ -55,7 +55,7 @@ Flasher - Throw flash and blind other players
 
 Ninja - Teleport and kill
 
-Poisoner - Poison someone to kill them with delay = **in progress**
+Poisoner - Poison someone to kill them with delay
 
 Uncertain - You can either help other impostors or be Traitor and make them lose.
 **IF YOU CHOOSE TO BE TRAITOR YOU WILL STILL WIN AND LOSE WITH IMPOSTORS** - WILL BE FIXED!!!
@@ -70,7 +70,7 @@ Executioner - Eject the highlighted player to win
 
 Freezer - Freeze people in place
 
-Glitch - Kill and mimic to other people - **in progress**
+Glitch - Kill and mimic to other people
 
 Hunter - To win you have to make a certain number of kills - **in progress**
 
@@ -88,7 +88,7 @@ Survivor - Survive to end and win with winning team
 
 Werewolf - Rampage to kill them all!
 
-Vampire - Bite to death - **in progress**
+Vampire - Bite to death
 
 =====================================
 
@@ -108,7 +108,7 @@ Imitator - Imitate roles of dead players
 
 Jailer - Jail crewmates
 
-Time Master - Revise time! - **in progress**
+Time Master - Revise time!
 
 Tracker - Track other players - **Coming to vanilla Modding Us**
 
