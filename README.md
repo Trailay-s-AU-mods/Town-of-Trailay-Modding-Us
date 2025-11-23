@@ -11,12 +11,12 @@ NOT FOR ORIGINAL AMONG US
 
 **Beta 7**
 
-# Features:
+Features:
 - Cosmetics loading screen
 - Role showing over your nick (work with vanilla roles and other mods!)
 - Custom role colores
 
-# Roles:
+Roles:
 Rework
 - The Glitch!
   - Now featuring custom ability sprite and no animation and evidence
@@ -34,7 +34,7 @@ New
 - Time master
   - Rewind time!
 
-# Other
+Other
 - Some sprites have been written
   - Sheriff shoot buton
   - Dragger drag button
