@@ -42,7 +42,7 @@ New
   - Clutch kill button
   - Hunter kill button
 
-=====================================
+#
 
 **ROLES THAT THIS MOD ADDS**
 - Bomber
