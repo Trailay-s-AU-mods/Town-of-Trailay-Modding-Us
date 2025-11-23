@@ -9,15 +9,38 @@ NOT FOR ORIGINAL AMONG US
 
 **CHANGELOG**
 
-**Beta 6**
-- Clutch is back
-- Improvments in code
-- Removed Fake Impostor from ToT (you can downolad normal FakeImp from mods tab)
-- Added Uncertain role
-- Hunter still broken
+**Beta 7**
 
-**Beta 6.1**
-- Fixed Portuguese translations
+# Features:
+- Cosmetics loading screen
+- Role showing over your nick (work with vanilla roles and other mods!)
+- Custom role colores
+
+# Roles:
+Rework
+- The Glitch!
+  - Now featuring custom ability sprite and no animation and evidence
+Fix
+- Hunter
+  - Kill 3 players to win
+- Bait
+  - If you die, your killer will self-report
+- Uncertain
+New
+- Vampire
+  - Bite, delayed kill! (10s)
+- Poisoner
+  - Poison someone, and make them die after 15s
+- Time master
+  - Rewind time!
+
+# Other
+- Some sprites have been written
+  - Sheriff shoot buton
+  - Dragger drag button
+  - Pelican swallow button
+  - Clutch kill button
+  - Hunter kill button
 
 =====================================
 
