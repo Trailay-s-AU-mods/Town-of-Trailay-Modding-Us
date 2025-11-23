@@ -44,6 +44,16 @@ New
 
 #
 
+**Beta 7.5**
+Bug fixes!
+
+Fixed credits (sorry Rafael)
+Fixed hats!
+Changed how Serial Killer works
+Fixed github page
+
+#
+
 **ROLES THAT THIS MOD ADDS**
 - Bomber
 - CrewPoster
@@ -52,11 +62,11 @@ New
 - Serial Killer
 - Uncertain
 
-======================================
+#
 
 Planed roles:
 
-======================================
+#
 
 Impostor Team:
 
@@ -83,7 +93,7 @@ Poisoner - Poison someone to kill them with delay
 Uncertain - You can either help other impostors or be Traitor and make them lose.
 **IF YOU CHOOSE TO BE TRAITOR YOU WILL STILL WIN AND LOSE WITH IMPOSTORS** - WILL BE FIXED!!!
 
-======================================
+#
 
 Neutral Team:
 
@@ -113,7 +123,7 @@ Werewolf - Rampage to kill them all!
 
 Vampire - Bite to death
 
-=====================================
+#
 
 Crewmate Team:
 
@@ -149,11 +159,11 @@ Spy - Cpy to find out things
 
 Veteran - If someone tries to kill you during an alert, they will die themselves
 
-=====================================
+#
 
 Planed add-ons (modifiers)
 
-=====================================
+#
 
 (global) Bait - After you die, your killer will automatically self report your body - **in progress as role**
 
@@ -181,7 +191,7 @@ Planed add-ons (modifiers)
 
 (imp) Underdog - If you are last living from your team, you get reduced cooldown
 
-=====================================
+#
 
 **Credits:**
 
